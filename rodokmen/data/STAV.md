@@ -41,10 +41,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   Žďárec (obec_id 1971) = vlastní fara Žďárec.
 - Doloženo: sňatek rodičů 1911, křest Marie Moučkové 1884 (kniha 1111 sn. 183), křest Jana Sysla 1883 (Žďárec, kniha 16583 = detail 7452, sn. 32).
   Křest Josefa 1919 – kniha 1112 nedigitalizovaná (archivni_dotazy.md).
-  Žďárec: N 1844–1863 = detail 7451, O 1855–1949 = detail 14193 (sňatek Jan Sysel st. × Marie Orhová, asi 1875–1883), Z 1867–1926 = detail 1033.
-- Doloženo navíc: sňatek Jan Sysel st. × Marie Orhová 15. 11. 1876 (O Žďárec, detail 14193, sn. 79; Rojetín sn. 67–85),
-  sňatek Cyril Moučka × Marie Rábonová 10. 5. 1881 (O Deblín 1118 = detail 3880, sn. 167; Nová Ves sn. 160–168).
-- Doloženy křty generace 4–7: Jan Sysel 1853 (Žďárec, detail 7451 sn. 12), Marie Orhová 1855 (Rojetín, 7451 sn. 43),
-  Cyril Moučka 1856 (Rosice čp. 118, N Rosice 1835–1857 = detail 4284 sn. 112), Marie Rábonová 1853 (Nová Ves, detail 3877 sn. 200).
-- Další krok: sňatky generace 8–15 (Jan Sysel × Josefa Kotová ~1845–1853 Žďárec; Josef Orha × Josefa Matysková ~1840–1855;
-  Josef Moučka × Marie Sobotková ~1845–1856 Rosice/Velká Bíteš; František Rábon × Františka Chaloupková ~1840–1853 Deblín).
+  Žďárec: N 1844–1863 = detail 7451, O 1855–1949 = detail 14193 (sňatek Jan Sysel st. × Marie Crhová, asi 1875–1883), Z 1867–1926 = detail 1033.
+- Doloženo navíc: sňatek Jan Sysel st. × Marie Crhová 15. 11. 1876 (O Žďárec, detail 14193, sn. 79; Rojetín sn. 67–85),
+  sňatek Cyril Moučka × Marie Ráboňová 10. 5. 1881 (O Deblín 1118 = detail 3880, sn. 167; Nová Ves sn. 160–168).
+- Doloženy křty generace 4–7: Jan Sysel 1853 (Žďárec, detail 7451 sn. 12), Marie Crhová 1855 (Rojetín, 7451 sn. 43),
+  Cyril Moučka 1856 (Rosice čp. 118, N Rosice 1835–1857 = detail 4284 sn. 112), Marie Ráboňová 1853 (Nová Ves, detail 3877 sn. 200).
+- Další krok: sňatky generace 8–15 (Jan Sysel × Josefa Kotová ~1845–1853 Žďárec; Josef Crha × Josefa Matysková ~1840–1855;
+  Josef Moučka × Marie Sobotková ~1845–1856 Rosice/Velká Bíteš; František Ráboň × Františka Chaloupková ~1840–1853 Deblín).
