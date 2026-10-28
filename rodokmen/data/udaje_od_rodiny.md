@@ -10,3 +10,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Jan Sysel a Marie Moučková se vzali 14. 2. 1911 v Kuřimské Nové Vsi.
 - Marie Moučková se narodila v Kuřimské Nové Vsi.
 - Jan Sysel zemřel 26. 6. 1951 ve Svinově.
+- Svinov, kde zemřel Jan Sysel, je osada u Pavlova (dnes okres Šumperk).

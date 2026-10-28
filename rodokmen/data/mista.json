@@ -1,1 +1,30 @@
-{}
+{
+ "Kuřimská Nová Ves": {
+  "re": "Kuřimsk[áéé] Nov|Nov[éá] V[se]",
+  "dotaz": "Kuřimská Nová Ves, Česko",
+  "lat": 49.3458,
+  "lon": 16.297,
+  "osm": "Kuřimská Nová Ves, okres Brno-venkov, Jihomoravský kraj, Česko"
+ },
+ "Žďárec": {
+  "re": "Žďár(ec|ci|ce)\\b",
+  "dotaz": "Žďárec, okres Brno-venkov",
+  "lat": 49.3798,
+  "lon": 16.2665,
+  "osm": "Žďárec, okres Brno-venkov, Jihomoravský kraj, 594 56, Česko"
+ },
+ "Rojetín": {
+  "re": "Rojetín",
+  "dotaz": "Rojetín, Česko",
+  "lat": 49.3666,
+  "lon": 16.2574,
+  "osm": "Rojetín, okres Brno-venkov, Jihomoravský kraj, Česko"
+ },
+ "Svinov u Pavlova": {
+  "re": "Svinov",
+  "dotaz": "Svinov u Pavlova, Pavlov, okres Šumperk",
+  "lat": 49.7537,
+  "lon": 16.872,
+  "osm": "Svinov u Pavlova, Pavlov, okres Šumperk, Olomoucký kraj, 789 85, Česko"
+ }
+}

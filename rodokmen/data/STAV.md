@@ -46,4 +46,4 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   sňatek Cyril Moučka × Marie Rábonová 10. 5. 1881 (O Deblín 1118 = detail 3880, sn. 167; Nová Ves sn. 160–168).
 - Další krok: křty generace 4–7 (Jan * 24. 7. 1853 Žďárec – N 1844–1863 detail 7451; Marie Orhová * 2. 12. 1855 Rojetín – tamtéž;
   Cyril Moučka * 8. 3. 1856 „Rosice“ (?) – ověřit, které; Marie Rábonová * 19. 9. 1853 Nová Ves – N Deblín 1846–1881 kniha 1110 = detail 3877),
-  z nich generace 8–15. Zeptat se, kde je Svinov (okres Žatec?).
+  z nich generace 8–15. Úmrtí Jana 1951 Svinov u Pavlova (okr. Zábřeh, fara Mohelnice?) – ZA Opava, jen s prohlížečem/CAPTCHA.
