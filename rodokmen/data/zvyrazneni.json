@@ -58,5 +58,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "zdarec_krest_jan_sysel_1853": {
+  "boxes": [
+   [
+    0.0,
+    0.83,
+    1.0,
+    0.975
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
