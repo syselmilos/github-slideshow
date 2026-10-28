@@ -42,5 +42,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - Doloženo: sňatek rodičů 1911, křest Marie Moučkové 1884 (kniha 1111 sn. 183), křest Jana Sysla 1883 (Žďárec, kniha 16583 = detail 7452, sn. 32).
   Křest Josefa 1919 – kniha 1112 nedigitalizovaná (archivni_dotazy.md).
   Žďárec: N 1844–1863 = detail 7451, O 1855–1949 = detail 14193 (sňatek Jan Sysel st. × Marie Orhová, asi 1875–1883), Z 1867–1926 = detail 1033.
-- Další krok: sňatek Jana Sysla st. a Marie Orhové (Žďárec nebo Rojetín – oba fara Žďárec), sňatek Cyrilla Moučky a Marie Rábonové (Deblín O 1118/1119),
-  pak křty generace 8–15. Zeptat se, kde je Svinov (okres Žatec?).
+- Doloženo navíc: sňatek Jan Sysel st. × Marie Orhová 15. 11. 1876 (O Žďárec, detail 14193, sn. 79; Rojetín sn. 67–85),
+  sňatek Cyril Moučka × Marie Rábonová 10. 5. 1881 (O Deblín 1118 = detail 3880, sn. 167; Nová Ves sn. 160–168).
+- Další krok: křty generace 4–7 (Jan * 24. 7. 1853 Žďárec – N 1844–1863 detail 7451; Marie Orhová * 2. 12. 1855 Rojetín – tamtéž;
+  Cyril Moučka * 8. 3. 1856 „Rosice“ (?) – ověřit, které; Marie Rábonová * 19. 9. 1853 Nová Ves – N Deblín 1846–1881 kniha 1110 = detail 3877),
+  z nich generace 8–15. Zeptat se, kde je Svinov (okres Žatec?).
