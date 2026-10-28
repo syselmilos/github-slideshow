@@ -1,7 +1,7 @@
 {
- "nazev": "",
- "popis": "",
- "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
+ "nazev": "Rodokmen Syslových",
+ "popis": "Předci Josefa Sysla (* 1919) ze Žďárce, Rojetína, Kuřimské Nové Vsi a Rosic – podle matrik Moravského zemského archivu.",
+ "zapati": "Dohledáno v digitalizovaných matrikách Moravského zemského archivu v Brně (portál Acta Publica)",
  "kontakt": {"jmeno": "", "email": ""},
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
@@ -9,11 +9,18 @@
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
-  "foto": "",
-  "foto_popis": ""
+  "nadpis": "Sedláci ze Žďárce a stolaři z Nové Vsi",
+  "odstavce": [
+   "Josef Sysel se narodil 19. března 1919 v Kuřimské Nové Vsi. Jeho otec Jan pocházel ze statku čp. 27 ve Žďárci, kde Syslové hospodařili jako půllánníci nejméně tři generace.",
+   "Matka Marie Moučková byla dcerou stolaře Cyrila Moučky z Rosic. Každý údaj na tomto webu má odkaz na původní zápis v matrice – s výřezem, přepisem a překladem."
+  ],
+  "foto": "rojetin_snatek_jan_sysel_marie_crhova_1876",
+  "foto_popis": "Zápis o sňatku Jana Sysla a Marie Crhové, Rojetín 15. 11. 1876."
  },
  "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
- "zajimavosti_na_uvodu": []
+ "zajimavosti_na_uvodu": [
+  {"nadpis": "Statek čp. 27", "text": "Syslové žili ve Žďárci v domě čp. 27 – doloženo 1853, 1876 i 1883."},
+  {"nadpis": "Zletilý ve 22 letech", "text": "Jan Sysel (* 1853) převzal po otcově smrti statek; soud ho prohlásil za zletilého v prosinci 1875."},
+  {"nadpis": "Nejstarší doložení předci", "text": "Kašpar Kota, Josef Matyska, Jan Sobotka a František Chaloupka – narození kolem roku 1800."}
+ ]
 }
