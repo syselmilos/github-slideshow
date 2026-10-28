@@ -18,7 +18,11 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
-    1: dict(n="Josef Sysel", y="* 1919", st="fam", sex="M", f=["* 19. 3. 1919"], r=[],
+    1: dict(n="Josef Sysel", y="* 1919", st="fam", sex="M", f=["* 19. 3. 1919 Kuřimská Nová Ves"], r=[],
+            note="Otec uživatele. Údaje od uživatele (2026-10-28), zatím neověřeno v matrice."),
+    2: dict(n="Jan Sysel", y="* 1883", st="fam", f=["* 14. 4. 1883 Žďárec čp. 27"], r=[],
+            note="Údaj od uživatele (2026-10-28)."),
+    3: dict(n="Marie Moučková", y="* 1884", st="fam", f=["* 14. 8. 1884"], r=[],
             note="Údaj od uživatele (2026-10-28). Místo narození zatím neznámé."),
 }
 

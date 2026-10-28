@@ -4,8 +4,8 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Pro koho
-- Výchozí osoba: Josef Sysel, * 19. 3. 1919 (místo narození zatím neznámé)
-- Kdo s Claudem pracuje a jak chce komunikovat: uživatel (vztah k Josefovi zatím neuveden), česky
+- Výchozí osoba: Josef Sysel, * 19. 3. 1919 Kuřimská Nová Ves
+- Kdo s Claudem pracuje a jak chce komunikovat: syn/dcera Josefa (uživatel), česky
 
 ## Kde co je
 | Soubor | Obsah |
@@ -34,4 +34,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1 – rozhovor s rodinou: potřebujeme místo narození Josefa, jeho rodiče, sňatek, úmrtí (2026-10-28).
+- Fáze 1: známe Josefa a rodiče (Jan Sysel * 1883 Žďárec 27, Marie Moučková * 1884). Chybí místo narození Marie, sňatek rodičů, úmrtí.
+- Fáze 2 blokovaná: Acta Publica (MZA Brno, www.mza.cz, actapublica.eu) je v síťovém nastavení cloudového prostředí zakázaná – uživatel ji musí povolit.
