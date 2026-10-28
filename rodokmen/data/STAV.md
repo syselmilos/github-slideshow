@@ -44,6 +44,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   Žďárec: N 1844–1863 = detail 7451, O 1855–1949 = detail 14193 (sňatek Jan Sysel st. × Marie Orhová, asi 1875–1883), Z 1867–1926 = detail 1033.
 - Doloženo navíc: sňatek Jan Sysel st. × Marie Orhová 15. 11. 1876 (O Žďárec, detail 14193, sn. 79; Rojetín sn. 67–85),
   sňatek Cyril Moučka × Marie Rábonová 10. 5. 1881 (O Deblín 1118 = detail 3880, sn. 167; Nová Ves sn. 160–168).
-- Další krok: křty generace 4–7 (Jan * 24. 7. 1853 Žďárec – N 1844–1863 detail 7451; Marie Orhová * 2. 12. 1855 Rojetín – tamtéž;
-  Cyril Moučka * 8. 3. 1856 „Rosice“ (?) – ověřit, které; Marie Rábonová * 19. 9. 1853 Nová Ves – N Deblín 1846–1881 kniha 1110 = detail 3877),
-  z nich generace 8–15. Úmrtí Jana 1951 Svinov u Pavlova (okr. Zábřeh, fara Mohelnice?) – ZA Opava, jen s prohlížečem/CAPTCHA.
+- Doloženy křty generace 4–7: Jan Sysel 1853 (Žďárec, detail 7451 sn. 12), Marie Orhová 1855 (Rojetín, 7451 sn. 43),
+  Cyril Moučka 1856 (Rosice čp. 118, N Rosice 1835–1857 = detail 4284 sn. 112), Marie Rábonová 1853 (Nová Ves, detail 3877 sn. 200).
+- Další krok: sňatky generace 8–15 (Jan Sysel × Josefa Kotová ~1845–1853 Žďárec; Josef Orha × Josefa Matysková ~1840–1855;
+  Josef Moučka × Marie Sobotková ~1845–1856 Rosice/Velká Bíteš; František Rábon × Františka Chaloupková ~1840–1853 Deblín).

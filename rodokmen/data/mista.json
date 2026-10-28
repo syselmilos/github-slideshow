@@ -26,5 +26,12 @@
   "lat": 49.7537,
   "lon": 16.872,
   "osm": "Svinov u Pavlova, Pavlov, okres Šumperk, Olomoucký kraj, 789 85, Česko"
+ },
+ "Rosice": {
+  "re": "Rosic",
+  "dotaz": "Rosice, okres Brno-venkov",
+  "lat": 49.1826,
+  "lon": 16.3878,
+  "osm": "Rosice, okres Brno-venkov, Jihomoravský kraj, 665 01, Česko"
  }
 }

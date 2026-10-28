@@ -94,5 +94,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "rosice_krest_cyril_moucka_1856": {
+  "boxes": [
+   [
+    0.0,
+    0.55,
+    1.0,
+    0.77
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
