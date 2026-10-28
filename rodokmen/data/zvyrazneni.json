@@ -10,5 +10,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "kurimska_nova_ves_krest_marie_mouckova_1884": {
+  "boxes": [
+   [
+    0.0,
+    0.775,
+    1.0,
+    0.94
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "zdarec_krest_jan_sysel_1883": {
+  "boxes": [
+   [
+    0.0,
+    0.59,
+    1.0,
+    0.815
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

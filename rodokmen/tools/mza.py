@@ -28,6 +28,8 @@ def get(url, out=None, ajax=False):
 def detail(did):
     s = get(f"{BASE}matrika/detail/{did}")
     m = re.search(r"CreateSeadragon\(\s*(\[.*?\]),\s*(\[.*?\]),", s, re.S)
+    if not m:
+        sys.exit(f"Svazek {did} nemá na Acta Publica digitalizované snímky.")
     srcs, names = json.loads(m.group(1)), json.loads(m.group(2))
     paths = [urllib.parse.unquote(x.split("Deepzoom=", 1)[1])[:-4] for x in srcs]
     return paths, names
@@ -75,8 +77,10 @@ def main(a):
             d = re.search(r"matrika/detail/(\d+)", tr)
             tds = [html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t))).strip()
                    for t in re.findall(r"<td.*?</td>", tr, re.S)]
-            if d and len(tds) >= 9:
-                print(f"{tds[0]} | {d.group(1)} | {tds[1]} | N {tds[3]} | O {tds[5]} | Z {tds[7]} | snímků {tds[-2] if len(tds) > 10 else ''}")
+            if d and len(tds) >= 7:
+                txt = lambda t: re.sub(r"\s+", " ", t).strip()
+                puv = txt(tds[1].split("římsko")[0].split("církev")[0])
+                print(f"{tds[0]} | detail {d.group(1)} | {puv} | N {txt(tds[2])} | O {txt(tds[3])} | Z {txt(tds[4])} | snímků {tds[6]}")
     elif a[0] == "info":
         paths, names = detail(a[1])
         print(len(names), "snímků;", names[0], "…", names[-1])

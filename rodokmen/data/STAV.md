@@ -39,4 +39,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   Kuřimská Nová Ves = fara Deblín (obec_id 742). Knihy: N 1879–1913 = 1111 (detail 11057), N 1914–1926 = 1112 (detail 15440),
   O 1877–1944 = 1119 (detail 11567; řazená po obcích, Nová Ves cca sn. 255–275, rok 1911 = sn. 265), Z 1904–1949 = 1127 (detail 15053).
   Žďárec (obec_id 1971) = vlastní fara Žďárec.
-- Doloženo: sňatek Jan Sysel × Marie Moučková 14. 2. 1911. Další: křest Josefa 1919 (kniha 1112), křest Marie 1884 (1111), křest Jana 1883 (Žďárec – 12. nebo 14. 4.?).
+- Doloženo: sňatek rodičů 1911, křest Marie Moučkové 1884 (kniha 1111 sn. 183), křest Jana Sysla 1883 (Žďárec, kniha 16583 = detail 7452, sn. 32).
+  Křest Josefa 1919 – kniha 1112 nedigitalizovaná (archivni_dotazy.md).
+  Žďárec: N 1844–1863 = detail 7451, O 1855–1949 = detail 14193 (sňatek Jan Sysel st. × Marie Orhová, asi 1875–1883), Z 1867–1926 = detail 1033.
+- Další krok: sňatek Jana Sysla st. a Marie Orhové (Žďárec nebo Rojetín – oba fara Žďárec), sňatek Cyrilla Moučky a Marie Rábonové (Deblín O 1118/1119),
+  pak křty generace 8–15. Zeptat se, kde je Svinov (okres Žatec?).
