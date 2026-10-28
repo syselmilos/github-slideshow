@@ -20,10 +20,29 @@
 P = {
     1: dict(n="Josef Sysel", y="* 1919", st="fam", sex="M", f=["* 19. 3. 1919 Kuřimská Nová Ves"], r=[],
             note="Otec uživatele. Údaje od uživatele (2026-10-28), zatím neověřeno v matrice."),
-    2: dict(n="Jan Sysel", y="1883–1951", st="fam", f=["* 14. 4. 1883 Žďárec čp. 27", "× 14. 2. 1911 Kuřimská Nová Ves Marie Moučková", "† 26. 6. 1951 Svinov"], r=[],
-            note="Údaj od uživatele (2026-10-28)."),
-    3: dict(n="Marie Moučková", y="* 1884", st="fam", f=["* 14. 8. 1884 Kuřimská Nová Ves"], r=[],
-            note="Údaj od uživatele (2026-10-28)."),
+    2: dict(n="Jan Sysel", y="1883–1951", st="doc",
+            f=["* 12. 4. 1883 (podle oddací matriky; rodina uvádí 14. 4. 1883 Žďárec čp. 27)",
+               "zednický pomocník, 1911 Kuřimská Nová Ves čp. 10",
+               "× 14. 2. 1911 Kuřimská Nová Ves Marie Moučková", "† 26. 6. 1951 Svinov"],
+            r=["kurimska_nova_ves_snatek_jan_sysel_marie_mouckova_1911"],
+            note="Sňatek doložen matrikou. Datum narození: matrika sňatků 12. 4., rodina 14. 4. – rozhodne křest. Úmrtí od rodiny."),
+    3: dict(n="Marie Moučková", y="* 1884", st="doc",
+            f=["* 14. 8. 1884 Kuřimská Nová Ves", "1911 svobodná domkařka v Kuřimské Nové Vsi čp. 18",
+               "× 14. 2. 1911 Kuřimská Nová Ves Jan Sysel"],
+            r=["kurimska_nova_ves_snatek_jan_sysel_marie_mouckova_1911"],
+            note="Datum narození shodně v oddací matrice i od rodiny; místo narození od rodiny."),
+    4: dict(n="Jan Sysel", y="", st="doc", f=["rolník v Kuřimské Nové Vsi (1911)"],
+            r=["kurimska_nova_ves_snatek_jan_sysel_marie_mouckova_1911"],
+            note="Otec ženicha v oddací matrice 1911; tehdy žil."),
+    5: dict(n="Marie Orha (?)", y="", st="doc", f=["1911 žila"],
+            r=["kurimska_nova_ves_snatek_jan_sysel_marie_mouckova_1911"],
+            note="Rodné příjmení čteno „Orha“ – nejisté, ověřit v křtu syna Jana (1883)."),
+    6: dict(n="Cyrill Moučka", y="† před 1911", st="doc", f=["stolař v Kuřimské Nové Vsi", "† před 14. 2. 1911"],
+            r=["kurimska_nova_ves_snatek_jan_sysel_marie_mouckova_1911"],
+            note="Otec nevěsty v oddací matrice 1911; tehdy už nežil."),
+    7: dict(n="Marie Rábonová (?)", y="† před 1911", st="doc", f=["† před 14. 2. 1911"],
+            r=["kurimska_nova_ves_snatek_jan_sysel_marie_mouckova_1911"],
+            note="Rodné příjmení čteno „Rábon“ – nejisté, ověřit v křtu dcery Marie (1884)."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
@@ -40,6 +59,10 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+    ("Kdy a kde se narodil Jan Sysel (otec Josefa)?",
+     "Otevřené: oddací matrika 1911 uvádí 12. 4. 1883, rodina 14. 4. 1883 ve Žďárci čp. 27; jeho otec byl 1911 rolníkem v Kuřimské Nové Vsi. Rozhodne zápis o křtu."),
+    ("Jak se za svobodna jmenovaly matky Jana Sysla a Marie Moučkové?",
+     "Otevřené: v oddací matrice 1911 čteno „Orha“ a „Rábon“ – nejisté, ověřit v křestních zápisech."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):

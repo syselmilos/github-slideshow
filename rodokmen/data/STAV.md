@@ -35,4 +35,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Rozpracováno (aktualizovat průběžně)
 - Fáze 1: známe Josefa a rodiče (Jan Sysel * 1883 Žďárec 27, Marie Moučková * 1884). Sňatek 14. 2. 1911 Kuř. Nová Ves, Marie * Kuř. Nová Ves, Jan † 26. 6. 1951 Svinov (který Svinov? – zeptat se). Chybí úmrtí Marie a Josefa.
-- Fáze 2 blokovaná: Acta Publica (MZA Brno, www.mza.cz, actapublica.eu) je v síťovém nastavení cloudového prostředí zakázaná – uživatel ji musí povolit.
+- Fáze 2: síť povolena. MZA Brno bez prohlížeče: `python3 -I tools/mza.py obec|svazky|info|snimek|link` (vlastní nástroj).
+  Kuřimská Nová Ves = fara Deblín (obec_id 742). Knihy: N 1879–1913 = 1111 (detail 11057), N 1914–1926 = 1112 (detail 15440),
+  O 1877–1944 = 1119 (detail 11567; řazená po obcích, Nová Ves cca sn. 255–275, rok 1911 = sn. 265), Z 1904–1949 = 1127 (detail 15053).
+  Žďárec (obec_id 1971) = vlastní fara Žďárec.
+- Doloženo: sňatek Jan Sysel × Marie Moučková 14. 2. 1911. Další: křest Josefa 1919 (kniha 1112), křest Marie 1884 (1111), křest Jana 1883 (Žďárec – 12. nebo 14. 4.?).
