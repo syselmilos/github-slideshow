@@ -13,3 +13,4 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - Obrazový server iipsrv pouští jen DeepZoom (`iipsrv.fcgi?Deepzoom=<cesta>.jp2.dzi` a `…_files/<level>/<x>_<y>.jpg`);
   FIF/CVT (celý JPEG) vrací 403 → nástroj stahuje dlaždice a slepí je (Pillow). curl funguje, actapublica.eu je za Cloudflare (403), www.mza.cz ne.
 - Cloud (claude.ai): /plugin nefunguje → skill zkopírován do repozitáře `.claude/skills/`; síť je třeba povolit v nastavení prostředí (www.mza.cz).
+- Starší oddací knihy (Žďárec 1813–1854) psané rychlou německou kurzívou: procházení po stránkách je pomalé a málo spolehlivé; lepší začít rejstříkem (u Žďárce kniha 16594, 1784–1853) nebo křty sourozenců.
