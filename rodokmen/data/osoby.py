@@ -20,10 +20,10 @@
 P = {
     1: dict(n="Josef Sysel", y="* 1919", st="fam", sex="M", f=["* 19. 3. 1919 Kuřimská Nová Ves"], r=[],
             note="Otec uživatele. Údaje od uživatele (2026-10-28), zatím neověřeno v matrice."),
-    2: dict(n="Jan Sysel", y="* 1883", st="fam", f=["* 14. 4. 1883 Žďárec čp. 27"], r=[],
+    2: dict(n="Jan Sysel", y="1883–1951", st="fam", f=["* 14. 4. 1883 Žďárec čp. 27", "× 14. 2. 1911 Kuřimská Nová Ves Marie Moučková", "† 26. 6. 1951 Svinov"], r=[],
             note="Údaj od uživatele (2026-10-28)."),
-    3: dict(n="Marie Moučková", y="* 1884", st="fam", f=["* 14. 8. 1884"], r=[],
-            note="Údaj od uživatele (2026-10-28). Místo narození zatím neznámé."),
+    3: dict(n="Marie Moučková", y="* 1884", st="fam", f=["* 14. 8. 1884 Kuřimská Nová Ves"], r=[],
+            note="Údaj od uživatele (2026-10-28)."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

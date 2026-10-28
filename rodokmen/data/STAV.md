@@ -34,5 +34,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1: známe Josefa a rodiče (Jan Sysel * 1883 Žďárec 27, Marie Moučková * 1884). Chybí místo narození Marie, sňatek rodičů, úmrtí.
+- Fáze 1: známe Josefa a rodiče (Jan Sysel * 1883 Žďárec 27, Marie Moučková * 1884). Sňatek 14. 2. 1911 Kuř. Nová Ves, Marie * Kuř. Nová Ves, Jan † 26. 6. 1951 Svinov (který Svinov? – zeptat se). Chybí úmrtí Marie a Josefa.
 - Fáze 2 blokovaná: Acta Publica (MZA Brno, www.mza.cz, actapublica.eu) je v síťovém nastavení cloudového prostředí zakázaná – uživatel ji musí povolit.
