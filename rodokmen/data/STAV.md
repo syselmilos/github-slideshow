@@ -46,5 +46,6 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   sňatek Cyril Moučka × Marie Ráboňová 10. 5. 1881 (O Deblín 1118 = detail 3880, sn. 167; Nová Ves sn. 160–168).
 - Doloženy křty generace 4–7: Jan Sysel 1853 (Žďárec, detail 7451 sn. 12), Marie Crhová 1855 (Rojetín, 7451 sn. 43),
   Cyril Moučka 1856 (Rosice čp. 118, N Rosice 1835–1857 = detail 4284 sn. 112), Marie Ráboňová 1853 (Nová Ves, detail 3877 sn. 200).
-- Další krok: sňatky generace 8–15 (Jan Sysel × Josefa Kotová ~1845–1853 Žďárec; Josef Crha × Josefa Matysková ~1840–1855;
-  Josef Moučka × Marie Sobotková ~1845–1856 Rosice/Velká Bíteš; František Ráboň × Františka Chaloupková ~1840–1853 Deblín).
+- Kolo 3 (sňatky gen. 8–15) rozpracováno: Sysel × Kotová – O Žďárec 1813–1854 (detail 7454) Žďárec 1846–1853 zběžně, nenalezeno, písmo velmi špatné;
+  Ráboň × Chaloupková – Deblín Neudorf 1838–1854 nenalezeno → nejspíš farnost nevěsty, nejdřív rozluštit obec „Rosci“ (?) v křtu Marie 1853.
+  Zbývá: Crha × Matysková (Rojetín, detail 7454 oddíl Rojetín), Moučka × Sobotková (Rosice O 1842–1875 = detail 4300, nebo Velká Bíteš).
